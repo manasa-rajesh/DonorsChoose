@@ -15,5 +15,7 @@ TSNE: This notebook contains:
 - exploratory data analysis of the DonorsChoose dataset
 - Data cleaning and preprocessing
 - TSNE plots 
+- KNN
+- NAIVE BAYES
 
 
