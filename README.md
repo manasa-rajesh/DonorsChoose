@@ -15,7 +15,10 @@ TSNE: This notebook contains:
 - exploratory data analysis of the DonorsChoose dataset
 - Data cleaning and preprocessing
 - TSNE plots 
-- KNN
-- NAIVE BAYES
+
+KNN
+- Applying brute force KNN algorithm for various values of hyperparter K and plotting the AUC plot. 
+- With the value of K with the highest AUC, ROC curve and confusion matrix are plotted.
+
 
 
